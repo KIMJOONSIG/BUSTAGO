@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="250px"
+        android:text="버스타구"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:fontFamily="@font/hannamfree"
+        android:background="@color/hannam_color"
+        android:textColor="@color/white"
+        android:textSize="50dp"
+        android:layout_marginBottom="30px"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/reservationButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/hannamfree"
+                android:textSize="30dp"
+                android:text="버스 예약"
+                android:textColor="@color/hannam_text" />
+
+            <Button
+                android:id="@+id/bus_location"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/hannamfree"
+                android:textSize="30dp"
+                android:text="노선별
+                              버스 위치"
+                android:textColor="@color/hannam_text" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/ticketButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/hannamfree"
+                android:textSize="30dp"
+                android:text="예약 목록"
+                android:textColor="@color/hannam_text" />
+
+            <Button
+                android:id="@+id/findButton"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:fontFamily="@font/hannamfree"
+                android:textSize="30dp"
+                android:text="분실물 목록"
+                android:textColor="@color/hannam_text" />
+
+
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250px"
+        android:src="@drawable/hannam" />
+
+
+</LinearLayout>
