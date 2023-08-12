@@ -18,11 +18,15 @@
         <tr>
               <th>로그인 화면</th>
               <th>학생용 화면</th>
+                <th>버스 위치 화면</th>
+                <th>분실물 게시판</th>
               <th>기사용 화면</th>
         </tr>
         <tr>
               <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/10e91366-ab34-455a-8835-393b46f390f3"></td>
                 <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/6467f8a5-0ddc-4d04-851f-00132db959b8"></td>
+                <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/f8308bcd-3939-4f01-a01b-12e9c506e78f"></td>
+                <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/76efaba1-70a3-403a-81d4-15fc8b089cc2"></td>
                 <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/2bef0891-a8bd-4515-b390-a146d6872250"></td>
         </tr>
 </table>
