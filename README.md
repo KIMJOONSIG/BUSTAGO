@@ -21,7 +21,7 @@
               <th>기사용 화면</th>
         </tr>
         <tr>
-              <td>(https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/10e91366-ab34-455a-8835-393b46f390f3)</td>
+              <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/10e91366-ab34-455a-8835-393b46f390f3"></td>
         </tr>
 </table>
 
