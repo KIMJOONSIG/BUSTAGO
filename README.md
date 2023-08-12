@@ -22,6 +22,8 @@
         </tr>
         <tr>
               <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/10e91366-ab34-455a-8835-393b46f390f3"></td>
+                <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/6467f8a5-0ddc-4d04-851f-00132db959b8"></td>
+                <td valign="top"><img src="https://github.com/KIMJOONSIG/BUSTAGO/assets/129662947/2bef0891-a8bd-4515-b390-a146d6872250"></td>
         </tr>
 </table>
 
