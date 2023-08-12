@@ -37,6 +37,6 @@
 - 분신물 이미지 업로드 및 확인 기능 : 선택한 이미지를 Bitmap 객체로 생성하여 Byte Array로 변환
 
 ## 🆙 Security Update(2023.08.12)
-- 이미지 전송 시 base64_decode를 통해 파일형식 저장
+- 이미지 전송 시 base64_decode를 통해 파일 형식 저장
 - 로그인 과정에서 발생할 수 있는 보안 사고를 예방하고자 POST 전송 방식과 안전한 SQL처리를 위한 Prepared Statement 사용
 - 중복된 아이디 생성 예방을 위한 중복 처리 기능 Update
